@@ -1,5 +1,5 @@
 # awesome-aigc-prompts
-aigc-prompts, ChatGPT prompts, prompts 导航, dall-e-prompts, midjourney-prompts,stable-diffusion-prompts
+aigc-prompts, ChatGPT prompts, prompts 导航, dall-e-prompts, midjourney-prompts,stable-diffusion-prompts，prompt-engineer
 
 **Prompts resource collection**
 
@@ -13,3 +13,7 @@ aigc-prompts, ChatGPT prompts, prompts 导航, dall-e-prompts, midjourney-prompt
 - [midjourney-prompts](https://prompthero.com/midjourney-prompts)
 - [Stable Diffusion prompts](https://stablediffusion.fr/prompts)
 - [Best 100+ Stable Diffusion Prompts: The Most Beautiful AI Text-to-Image Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts)
+
+**prompt engineer**
+
+[show your prompt](https://github.com/weekend-project-space/awesome-aigc-prompts/issues)
