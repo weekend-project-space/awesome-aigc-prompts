@@ -13,6 +13,8 @@ aigc-prompts, ChatGPT prompts, prompts 导航, dall-e-prompts, midjourney-prompt
 - [midjourney-prompts](https://prompthero.com/midjourney-prompts)
 - [Stable Diffusion prompts](https://stablediffusion.fr/prompts)
 - [Best 100+ Stable Diffusion Prompts: The Most Beautiful AI Text-to-Image Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts)
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 
 **prompt engineer**
 
