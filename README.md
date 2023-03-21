@@ -1,6 +1,10 @@
 # awesome-aigc-prompts
 aigc-prompts, ChatGPT prompts, prompts 导航, dall-e-prompts, midjourney-prompts,stable-diffusion-prompts，prompt-engineer
 
+**AIGC application**
+
+-[awesome-aigc](https://github.com/weekend-project-space/awesome-aigc)
+
 **Prompts resource collection**
 
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
