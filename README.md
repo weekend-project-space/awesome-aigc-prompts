@@ -3,7 +3,7 @@ aigc-prompts, ChatGPT prompts, prompts 导航, dall-e-prompts, midjourney-prompt
 
 **AIGC application**
 
--[awesome-aigc](https://github.com/weekend-project-space/awesome-aigc)
+- [awesome-aigc](https://github.com/weekend-project-space/awesome-aigc)
 
 **Prompts resource collection**
 
